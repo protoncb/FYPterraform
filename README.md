@@ -1,2 +1,1 @@
-# FYPterraform
 terraform apply
