@@ -1,1 +1,2 @@
 # FYPterraform
+terraform apply
